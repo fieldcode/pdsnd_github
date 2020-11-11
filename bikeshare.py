@@ -97,7 +97,7 @@ def time_stats(df):
     # TO DO: display the most common month
     month_med = df['month'].median()
     print('Most common month: ' + str(int(month_med)))
-
+    # here happens somethin with the day of the week
     dayofweek_com = df['day_of_week'].mode()
     print('Most common day of week: ' + str(dayofweek_com).strip("0"))
 
