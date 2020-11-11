@@ -14,4 +14,4 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-Here stands some credit.
+Here stands some credit. Thanks to Udacity.
